@@ -1,0 +1,6 @@
+{
+  "name": "JanSahayak AI",
+  "description": "आपकी डिजिटल सुरक्षा, आपकी सरकारी योजनाओं का साथी। Independent AI platform for scam message checking, government scheme discovery, and cyber safety awareness in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
